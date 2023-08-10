@@ -28,3 +28,5 @@ O script lerá a lista de e-mails e números de telefone do arquivo `emails_tele
 ## Licença
 
 Este script é fornecido "como está" sem garantias ou condições de qualquer tipo. Você pode usá-lo e modificá-lo livremente para seus próprios propósitos.
+
+## Feito com 💜 na HUBBIE
